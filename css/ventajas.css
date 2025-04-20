@@ -1,0 +1,93 @@
+body{
+    background-image: url(../img/Fondo3.png);
+}
+    .Titulo_Ventajas {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    margin-top: 30px;
+}
+.ventaja1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;   
+    border: 1px solid transparent;      
+    padding: 20px;               
+    width: 30%;                            
+    border-radius: 8px;        
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    margin-left: 250px;
+    margin-top: 140px;
+    font-size: 22px;
+
+}
+.ventaja2 {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    background-color: transparent;   
+    border: 1px solid transparent;      
+    padding: 20px;               
+    width: 30%;                            
+    border-radius: 8px;        
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    margin-left: 700px;
+    margin-top: 150px;
+    font-size: 22px;
+
+}
+.ventaja3 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;   
+    border: 1px solid transparent;      
+    padding: 20px;               
+    width: 30%;                            
+    border-radius: 8px;        
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    margin-left: 250px;
+    margin-top: 125px;
+    font-size: 22px;
+}
+.ventaja4 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;   
+    border: 1px solid transparent;      
+    padding: 20px;               
+    width: 30%;                            
+    border-radius: 8px;        
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    margin-left: 700px;
+    margin-top: 100px;
+    font-size: 22px;
+}
+.imgVentaja1 {
+    background-color: transparent; 
+    margin-left: 700px;
+    margin-top: -1900px;
+    width: 30%;
+    border-radius: 100px;
+}
+.imgVentaja2 {
+    background-color: transparent; 
+    margin-left: 250px;
+    margin-top: -1400px;
+    width: 30%;
+    border-radius: 100px;
+}
+.imgVentaja3 {
+    background-color: transparent; 
+    margin-left: 50px;
+    margin-top: -800px;
+    width: 30%;
+    border-radius: 100px;
+}
+.imgVentaja4 {
+    background-color: transparent; 
+    margin-left: 250px;
+    margin-top: -300px;
+    width: 30%;
+    border-radius: 100px;
+}

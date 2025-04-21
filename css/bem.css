@@ -2,7 +2,8 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   color: #ccd1d4;
-  background-image: url("../img/groundBEM.jpg");
+  background-image: url(../img/rty5.jpg);
+  background-size: cover;
   background-size: cover;
   padding: 20px;
 }

@@ -5,7 +5,8 @@ body {
     flex-direction: column;
     text-align: center;
     min-height: 100vh;
-    background-image: url(../img/fondo_prueba2.jpg);
+    background-image: url(../img/rty5.jpg);
+    background-size: cover;
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;

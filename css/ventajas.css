@@ -8,7 +8,8 @@
 }
 
 body {
-    background-image: url(../img/fondo_prueba2.jpg);
+    background-image: url(../img/rty5.jpg);
+    background-size: cover;
     background-attachment: fixed;
 }
 

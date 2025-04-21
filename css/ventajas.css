@@ -1,93 +1,40 @@
-body{
-    background-image: url(../img/Fondo3.png);
-}
-    .Titulo_Ventajas {
+* {
+    margin: 0;
+    padding: 0;
     font-family: 'Times New Roman', Times, serif;
-    color: white;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+body {
+    background-image: url(../img/fondo_prueba2.jpg);
+    background-attachment: fixed;
+}
+
+h1 {
+    color: black;
     text-align: center;
-    position: relative;
-    top: 50px;
     margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: Papyrus;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px 20px;
+    border-radius: 10px;
 }
-.ventaja1 {
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: transparent;   
-    border: 1px solid transparent;      
-    padding: 20px;               
-    width: 30%;                            
-    border-radius: 8px;        
-    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
-    margin-left: 250px;
-    margin-top: 140px;
-    font-size: 22px;
 
+.container{
+    max-width: 90%;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
 }
-.ventaja2 {
-    color: white;
-    font-family:'Times New Roman', Times, serif;
-    background-color: transparent;   
-    border: 1px solid transparent;      
-    padding: 20px;               
-    width: 30%;                            
-    border-radius: 8px;        
-    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
-    margin-left: 700px;
-    margin-top: 150px;
-    font-size: 22px;
 
+.imgVentaja-R {
+    max-width: 400px;
 }
-.ventaja3 {
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: transparent;   
-    border: 1px solid transparent;      
-    padding: 20px;               
-    width: 30%;                            
-    border-radius: 8px;        
-    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
-    margin-left: 250px;
-    margin-top: 125px;
-    font-size: 22px;
-}
-.ventaja4 {
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: transparent;   
-    border: 1px solid transparent;      
-    padding: 20px;               
-    width: 30%;                            
-    border-radius: 8px;        
-    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
-    margin-left: 700px;
-    margin-top: 100px;
-    font-size: 22px;
-}
-.imgVentaja1 {
-    background-color: transparent; 
-    margin-left: 700px;
-    margin-top: -1900px;
-    width: 30%;
-    border-radius: 100px;
-}
-.imgVentaja2 {
-    background-color: transparent; 
-    margin-left: 250px;
-    margin-top: -1400px;
-    width: 30%;
-    border-radius: 100px;
-}
-.imgVentaja3 {
-    background-color: transparent; 
-    margin-left: 50px;
-    margin-top: -800px;
-    width: 30%;
-    border-radius: 100px;
-}
-.imgVentaja4 {
-    background-color: transparent; 
-    margin-left: 250px;
-    margin-top: -300px;
-    width: 30%;
-    border-radius: 100px;
+
+.imgVentaja-L {
+    max-width: 400px;
 }

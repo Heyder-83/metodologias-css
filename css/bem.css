@@ -1,0 +1,58 @@
+body {
+  background-image: url("../img/groundBEM.jpg");
+  background-size: cover;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: rgb(156, 161, 165);
+}
+.title {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #333;
+  background-color: #353232;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(204, 209, 212);
+}
+.prin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container {
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #333;
+  background-color: #353232;
+  border-radius: 10px;
+  font-size: large;
+}
+.ima {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 20px;
+}
+.Bimg, .Eimg, .Mimg {
+  width: 500px;
+  border-radius: 10px;
+  transition: transform 0.7s ease;
+}
+
+.Bimg:hover, .Eimg:hover, .Mimg:hover {
+  transform: scale(1.05);
+}
+
+.back {
+  max-width: 90px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #333;
+  background-color: #353232;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(204, 209, 212);
+}

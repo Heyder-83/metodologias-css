@@ -4,7 +4,8 @@ body {
   color: #ccd1d4;
   background-image: url(../img/rty5.jpg);
   background-size: cover;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   padding: 20px;
 }
 

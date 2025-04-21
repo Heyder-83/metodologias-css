@@ -11,6 +11,7 @@ body {
     background-image: url(../img/rty5.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 h1 {
